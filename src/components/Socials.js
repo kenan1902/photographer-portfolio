@@ -18,27 +18,43 @@ const Socials = () => {
     >
       <ul className="flex gap-x-4">
         <li>
-          <a href="https://www.facebook.com/" target="_blank">
+          <a
+            href="https://www.facebook.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             <ImFacebook />
           </a>
         </li>
         <li>
-          <a href="https://x.com/" target="_blank">
+          <a href="https://x.com/" target="_blank" rel="noreferrer noopener">
             <ImTwitter />
           </a>
         </li>
         <li>
-          <a href="https://www.pinterest.com/" target="_blank">
+          <a
+            href="https://www.pinterest.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             <ImPinterest />
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/" target="_blank">
+          <a
+            href="https://www.instagram.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             <ImInstagram />
           </a>
         </li>
         <li>
-          <a href="https://www.youtube.com/" target="_blank">
+          <a
+            href="https://www.youtube.com/"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             <ImYoutube />
           </a>
         </li>
